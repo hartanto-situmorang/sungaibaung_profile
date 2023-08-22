@@ -1,0 +1,170 @@
+.swiper {
+    width: 1200px;
+    height: 600px;
+}
+
+.potensi {
+    padding: 30px 5px 20px 30px;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    color: #fff;
+    transition: .2s linear;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    transform: scale(1.1);
+}
+
+.swiper-pagination-bullet {
+    border: 2px solid #fff;
+    transition: .2s linear;
+}
+
+.swiper-pagination-bullet:hover,
+.swiper-pagination-bullet-active {
+    background-color: #fff;
+}
+
+.section1 {
+    padding: 0% 10% 0% 10%;
+}
+
+.banner_main {
+    padding-bottom: 0;
+}
+
+td {
+    padding: 0px 10px 0px 10px;
+}
+
+th {
+    padding: 0px 10px 0px 10px
+}
+.read_more{
+    margin-top: 30px;
+}
+.data1 {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.data2 {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 14px;
+    border: 2;
+    padding: 2%;
+}
+
+.data3 {
+    margin-top: 20px;
+    text-align: left;
+    font-size: 18px;
+    border: 2;
+    padding: 2%;
+}
+
+.data {
+    padding: 20px 0px 30px 0px;
+}
+
+/* Your existing styles */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+/* Responsive styles */
+@media (max-width: 600px) {
+    .potensi {
+        padding: 30px 0px 20px 0px;
+    }
+
+    body {
+        padding: 10px;
+    }
+
+    .section1 {
+        padding: 0% 0% 0% 0%;
+    }
+
+    .data {
+        padding: 5px 0px 5px 0px;
+    }
+
+    td {
+        padding: 0px 5px 0px 5px;
+    }
+
+    th {
+        padding: 0px 5px 0px 5px
+    }
+
+    .data1 {
+        padding: 20px;
+        text-align: left;
+        font-size: 12px;
+    }
+
+    .data2 {
+        margin-top: 20px;
+        text-align: left;
+        font-size: 8px;
+        border: 2;
+        padding: 0%;
+    }
+
+    .data3 {
+        margin: 20px 5px 20px 5px;
+        max-width: 80%;
+        text-align: left;
+        font-size: 8px;
+        border: 2;
+        padding: 0%;
+    }
+
+    .row2 {
+        box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+        -webkit-box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+        -moz-box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+    }
+}
+
+.row2 {
+    box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+    -webkit-box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+    -moz-box-shadow: -1px -21px 19px -23px rgba(0, 0, 0, 0.18);
+}
+
+.myButton {
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    background: linear-gradient(to bottom, #ededed 5%, #ededed 100%);
+    background-color: #ededed;
+    border-radius: 6px;
+    border: 1px solid #cc76cc;
+    display: inline-block;
+    cursor: pointer;
+    color: #260b8f;
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 9px 37px;
+    text-decoration: none;
+    text-shadow: 2px 2px 2px #ffffff;
+}
+
+.myButton:hover {
+    background: linear-gradient(to bottom, #ededed 5%, #ededed 100%);
+    background-color: #ededed;
+}
+
+.myButton:active {
+    position: relative;
+    top: 1px;
+}
