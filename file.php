@@ -159,7 +159,7 @@
                                 <img src="img/gambar7.png" alt="">
                             </div>
                             <div class="swiper-slide" id="mySwiper">
-                                <img src="img/gambar8.png" alt="">
+                                <img src="img/gambarn.png" alt="">
                             </div>
                             <div class="swiper-slide" id="mySwiper">
                                 <img src="img/gambar9.png" alt="">
