@@ -125,6 +125,9 @@
                     <div class="swiper">
                         <div class="swiper-wrapper">
                             <div class="swiper-slide" id="mySwiper">
+                                <img src="img/img1.png" alt="">
+                            </div>
+                            <div class="swiper-slide" id="mySwiper">
                                 <img src="img/gambar1.png" alt="">
                             </div>
                             <div class="swiper-slide" id="mySwiper">
